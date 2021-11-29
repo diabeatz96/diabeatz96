@@ -1,5 +1,5 @@
 
-# Welcome to my GitHub Profile! ![](https://www.cs.csubak.edu/~atante/3350/pika_pictures/pixel_wink_pika.gif)
+# Welcome to my GitHub Profile! ![](http://rgznsk.ovh/wp-content/uploads/2017/08/Persona5.gif)
 
 ## 🎬🎮📖 About Me
 Currently, I am a computer science student at the College of Staten Island.
