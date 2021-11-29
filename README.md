@@ -24,7 +24,7 @@ Vallene Hours Worked.
 [![wakatime](https://wakatime.com/badge/user/d40f1ade-8d48-4f6f-86b3-8b2ed1780d43/project/6e45088b-b4cc-4142-b2fe-0cba579f283f.svg)](https://wakatime.com/badge/user/d40f1ade-8d48-4f6f-86b3-8b2ed1780d43/project/6e45088b-b4cc-4142-b2fe-0cba579f283f)
 
 ![wakatime](https://wakatime.com/share/@d40f1ade-8d48-4f6f-86b3-8b2ed1780d43/393405b6-5d60-4ef3-966a-45e5e00f918b.png)
-## Other Common Github Profile Sections
+## COMMON QUESTIONS
 👩‍💻 I'm currently working on...
 
 Vallene, a text adventure using the raylib 4.0 framwork in C++. 
