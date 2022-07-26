@@ -1,5 +1,5 @@
 
-# Welcome to my GitHub Profile! ![](http://rgznsk.ovh/wp-content/uploads/2017/08/Persona5.gif)
+# Welcome to my GitHub Profile! ![](https://giffiles.alphacoders.com/610/61072.gif)
 
 ## 🎬🎮📖 About Me
 Currently, I am a computer science student at the College of Staten Island.
