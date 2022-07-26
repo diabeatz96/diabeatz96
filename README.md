@@ -3,16 +3,16 @@
 
 ## 🎬🎮📖 About Me
 Currently, I am a computer science student at the College of Staten Island.
-I am studying to become a video game developer. I also own a small film production company called "The Golden Cut" google us and check out our work!
+I am studying to become a video game developer or Full-Stack Developer. I also own a small film production company called "The Golden Cut" google us and check out our work!
 
 My expertise lies in being a director of photography, and I am applying those skills to learn Unreal Engine and C++.
 
-I love video games, and always have. I am working towards owning a gaming studio or working at one.
+I love video games, and always have. I am working towards owning a small independet gaming studio. I want to currently work in the industry as a full-stack developer as well.
 Most people describe me as a funny, kind, and hardworking individual who values their time and works efficiently.
 
-I’m seeking opportunities that will let me work in the video game industry.
+I’m seeking opportunities that will let me work in the Full-Stack Web Dev industry.
 
-My current fields of interest include Video game design, software engineering, and filmmaking.
+My current fields of interest include Video game design, software engineering, webdev, and filmmaking.
 
 Message me if you love videogames, board games, anime, magic the gathering, basketball, film, or books. I'd love to get to know you on a personal level as well.
 
@@ -53,7 +53,7 @@ he/him/they
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.thegoldencutproductions.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adamkostandy.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamkostandy/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bigblobgame)
 
