@@ -2,20 +2,12 @@
 # Welcome to my GitHub Profile! ![](https://giffiles.alphacoders.com/610/61072.gif)
 
 ## 🎬🎮📖 About Me
-Currently, I am a computer science student at the College of Staten Island.
-I am studying to become a video game developer or Full-Stack Developer. I also own a small film production company called "The Golden Cut" google us and check out our work!
 
-My expertise lies in being a director of photography, and I am applying those skills to learn Unreal Engine and C++.
+Expert in Film. Student in Computer Science.  Soon to be a expert in both.
 
-I love video games, and always have. I am working towards owning a small independet gaming studio. I want to currently work in the industry as a full-stack developer as well.
-Most people describe me as a funny, kind, and hardworking individual who values their time and works efficiently.
+Hi, I'm Adam! I'm currently looking for Software Development internships in the New York State area. I have an interest in most technical fields, but I am currently focusing on full stack web development, game development, and software development. In my free time, I work on films with my production company "The Golden Cut". My expertise lies in being a director of photography, and I am applying those skills to learn Java, Web Development, Unreal Engine and C++. 
 
-I’m seeking opportunities that will let me work in the Full-Stack Web Dev industry.
-
-My current fields of interest include Video game design, software engineering, webdev, and filmmaking.
-
-Message me if you love videogames, board games, anime, magic the gathering, basketball, film, or books. I'd love to get to know you on a personal level as well.
-
+Most people describe me as a funny, kind, and hardworking individual who values their time and works efficiently. Message me if you love videogames, board games, anime, magic the gathering, basketball, film, or books. Thank you!
 
 ## 🛠 Skills
 C++, Unreal Engine, Raylib, Film-making. 
