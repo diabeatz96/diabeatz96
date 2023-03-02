@@ -1,7 +1,6 @@
 
 # Welcome to my GitHub Profile! ![](https://giffiles.alphacoders.com/610/61072.gif)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabeatz96&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabeatz96)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎬🎮📖 About Me
 
